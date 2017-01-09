@@ -10,8 +10,12 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class PetaniServlet
+ * @author arnugroho
+ * Jan 9, 2017
+ * https://www.linkedin.com/in/akbar-riyan-nugroho-42403054/de
+ * https://github.com/arnugroho
  */
+
 @WebServlet("/ProgrammerServlet")
 public class ProgrammerServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
